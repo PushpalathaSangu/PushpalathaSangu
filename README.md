@@ -11,7 +11,7 @@
 
 - 🎓 I'm a Computer Science Engineering student with a deep interest in **Web Development** and **Cloud Computing**  
 - 🌱 I’m currently learning **Cloud deployment using AWS (EC2, S3, Lambda)** and expanding my skills in **MERN stack**
-- 💬 Ask me about **Frontend & Backend Development, Cloud hosting, MongoDB, APIs, and GitHub project structuring**
+- 💬 Ask me about **Frontend & Backend Development, Cloud hosting,Java**
 - 👯 I’m looking to collaborate on **💡 Full-stack web projects, Open Source contributions, and Cloud-based apps that make a real impact**
 - 🤝 I’m looking for help with **Enhancing my skills in full-stack web development and deploying scalable cloud-native applications using modern DevOps practices**
 - 📫 How to reach me: **pushpalathareddy2005@gmail.com**
@@ -94,6 +94,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PushpalathaSangu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PushpalathaSangu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpalathaSangu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PushpalathaSangu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 ---
 
