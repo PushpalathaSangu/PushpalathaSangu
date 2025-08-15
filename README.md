@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **Cloud deployment using AWS (EC2, S3, Lambda)** and expanding my skills in **MERN stack**
 - 💬 Ask me about **Frontend & Backend Development, Cloud hosting,Java**
 - 👯 I’m looking to collaborate on **💡 Full-stack web projects, Open Source contributions, and Cloud-based apps that make a real impact**
-- 🤝 I’m looking for help with **Enhancing my skills in full-stack web development and deploying scalable cloud-native applications using modern DevOps practices**
 - 📫 How to reach me: **pushpalathareddy2005@gmail.com**
 - 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/PushpalathaSangu)**
 
