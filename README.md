@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpalatha Sangu</h1>
-<h3 align="center">A passionate 💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🚀 Turning Ideas into Scalable Solutions</h3>
+<h3 align="center">💻 Proficient Full-Stack Developer | 📊 Data Science Enthusiast | ☁️ Cloud & AI Explorer | 🚀 Building Scalable and Impactful Solutions</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pushpalthasangu&label=Profile%20views&color=0e75b6&style=flat" alt="pushpalthasangu" /> 
