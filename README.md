@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpalatha Sangu</h1>
-<h3 align="center">💻 Proficient Full-Stack Developer | 📊 Data Science Enthusiast | ☁️ Cloud & AI Explorer | 🚀 Building Scalable and Impactful Solutions</h3>
+<h3 align="center">💻 Proficient Full-Stack Developer | 📊 Data Science Enthusiast | ☁️🤖 Cloud & AI Explorer | 🚀 Building Scalable and Impactful Solutions</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pushpalthasangu&label=Profile%20views&color=0e75b6&style=flat" alt="pushpalthasangu" /> 
@@ -9,12 +9,14 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 I'm a Computer Science Engineering student with a deep interest in **Web Development** and **Cloud Computing**  
-- 🌱 I’m currently learning **Cloud deployment using AWS (EC2, S3, Lambda)** and expanding my skills in **MERN stack**
-- 💬 Ask me about **Frontend & Backend Development, Cloud hosting,Java**
-- 👯 I’m looking to collaborate on **💡 Full-stack web projects, Open Source contributions, and Cloud-based apps that make a real impact**
-- 📫 How to reach me: **pushpalathareddy2005@gmail.com**
-- 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/PushpalathaSangu)**
+- 🎓 I'm a Computer Science Engineering student passionate about **Full-Stack Development, Artificial Intelligence, Data Science, and Cloud Computing**
+- 🤖 Exploring the world of **AI & Machine Learning** while building intelligent and scalable applications
+- ☁️ Currently learning and working with **AWS Cloud Services (EC2, S3, Lambda)**, cloud deployment, and backend architectures
+- 💬 Ask me about **Frontend & Backend Development, Java, Cloud Computing, AI, and Data Science**
+- 👯 Looking to collaborate on **AI-powered applications, Full-Stack Web Projects, Open Source Contributions, and scalable Cloud solutions**
+- 🚀 Passionate about transforming ideas into impactful real-world solutions through technology
+- 📫 Reach me at: **pushpalathareddy2005@gmail.com**
+- 👨‍💻 Explore my projects here: **[GitHub](https://github.com/PushpalathaSangu)**
 
 ---
 
