@@ -143,8 +143,8 @@
   </a>
 
   <a href="https://pola.rs/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/79211508?s=200&v=4" alt="polars" width="45" height="45"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/polars.svg" alt="polars" width="45" height="45"/>
+</a>
 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/>
